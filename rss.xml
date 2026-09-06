@@ -1,10 +1,342 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grupo Elecnor — Noticias</title>
     <link>https://www.grupoelecnor.com/noticias</link>
     <description>Todas las noticias publicadas por Grupo Elecnor.</description>
     <language>es</language>
-    <atom:link href="https://raw.githubusercontent.com/plis2100/elecnor-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 06 Sep 2026 17:21:47 +0000</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+    <ns0:link href="https://raw.githubusercontent.com/plis2100/elecnor-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grupo Elecnor mejora su rentabilidad y eleva su beneficio un 36% superando los 68 millones de euros en el primer semestre de 2026</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-mejora-su-rentabilidad-y-eleva-su-beneficio-un-36percent-superando-los-68-millones-de-euros-en-el-primer-semestre-de-2026</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-mejora-su-rentabilidad-y-eleva-su-beneficio-un-36percent-superando-los-68-millones-de-euros-en-el-primer-semestre-de-2026</guid>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;El EBITDA crece un 28,4% hasta los 143,6 millones de euros y la cifra de negocio se sitúa en 1.997 millones de euros, en línea con el mismo periodo del año anterior&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-mejora-su-rentabilidad-y-eleva-su-beneficio-un-36percent-superando-los-68-millones-de-euros-en-el-primer-semestre-de-2026"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/10e143c37608a81a014aab551238b566009bc04b" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor registra un Programa de Pagarés multidivisa en el MARF de hasta 400 millones de euros</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-registra-un-programa-de-pagares-multidivisa-en-el-marf-de-hasta-400-millones-de-euros-6</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-registra-un-programa-de-pagares-multidivisa-en-el-marf-de-hasta-400-millones-de-euros-6</guid>
+      <pubDate>Tue, 23 Jun 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Elecnor continúa con su estrategia de diversificación entre financiación bancaria y mercado de capitales.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-registra-un-programa-de-pagares-multidivisa-en-el-marf-de-hasta-400-millones-de-euros-6"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/09f2d848f9d6e09bdb052effdce4d255eaec80d4" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los accionistas del Grupo Elecnor aprueban las cuentas anuales de 2025 y un dividendo total con cargo a los resultados de 2025 de 44,3 millones de euros</title>
+      <link>https://www.grupoelecnor.com/noticias/los-accionistas-del-grupo-elecnor-aprueban-las-cuentas-anuales-de-2025-y-un-dividendo-total-con-cargo-a-los-resultados-de-2025-de-443-millones-de-euros</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/los-accionistas-del-grupo-elecnor-aprueban-las-cuentas-anuales-de-2025-y-un-dividendo-total-con-cargo-a-los-resultados-de-2025-de-443-millones-de-euros</guid>
+      <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La Junta General de Accionistas ha aprobado los nombramientos de Carmen Morenés Giles y Marta Prado Aranguren como nuevas consejeras dominicales&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/los-accionistas-del-grupo-elecnor-aprueban-las-cuentas-anuales-de-2025-y-un-dividendo-total-con-cargo-a-los-resultados-de-2025-de-443-millones-de-euros"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/09f2d848f9d6e09bdb052effdce4d255eaec80d4" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor supera los 27 millones de euros de beneficio neto en el primer trimestre de 2026, un 8,1% más que el año anterior</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-27-millones-de-euros-de-beneficio-neto-en-el-primer-trimestre-de-2026-un-81percent-mas-que-el-ano-anterior</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-27-millones-de-euros-de-beneficio-neto-en-el-primer-trimestre-de-2026-un-81percent-mas-que-el-ano-anterior</guid>
+      <pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía alcanza 58 millones de euros de EBITDA (+6,6%) y 930,8 millones de cifra de negocio (+3,7%)&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-27-millones-de-euros-de-beneficio-neto-en-el-primer-trimestre-de-2026-un-81percent-mas-que-el-ano-anterior"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/09f2d848f9d6e09bdb052effdce4d255eaec80d4" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor eleva a 62,6 millones su inversión en seguridad y alcanza su segundo mejor dato histórico en prevención</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-eleva-a-626-millones-su-inversion-en-seguridad-y-alcanza-su-segundo-mejor-dato-historico-en-prevencion</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-eleva-a-626-millones-su-inversion-en-seguridad-y-alcanza-su-segundo-mejor-dato-historico-en-prevencion</guid>
+      <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La seguridad laboral constituye una prioridad para el Grupo y se integra de forma transversal en su actividad, con el objetivo de garantizar la protección de todas las personas implicadas en sus&amp;hellip;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-eleva-a-626-millones-su-inversion-en-seguridad-y-alcanza-su-segundo-mejor-dato-historico-en-prevencion"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/09f2d848f9d6e09bdb052effdce4d255eaec80d4" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor impulsa el uso de drones para reforzar la seguridad en sus proyectos de infraestructuras</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-impulsa-el-uso-de-drones-para-reforzar-la-seguridad-en-sus-proyectos-de-infraestructuras</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-impulsa-el-uso-de-drones-para-reforzar-la-seguridad-en-sus-proyectos-de-infraestructuras</guid>
+      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-impulsa-el-uso-de-drones-para-reforzar-la-seguridad-en-sus-proyectos-de-infraestructuras"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/0523a43b1ed4f4a031e680e5a2aa074bd103999f" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor Servicios y Proyectos galardonada en los Premios Asepeyo Antoni Serra Santamans por su compromiso con la salud y seguridad laboral</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-servicios-y-proyectos-galardonada-en-los-premios-asepeyo-antoni-serra-santamans-por-su-compromiso-con-la-salud-y-seguridad-laboral</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-servicios-y-proyectos-galardonada-en-los-premios-asepeyo-antoni-serra-santamans-por-su-compromiso-con-la-salud-y-seguridad-laboral</guid>
+      <pubDate>Tue, 07 Apr 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-servicios-y-proyectos-galardonada-en-los-premios-asepeyo-antoni-serra-santamans-por-su-compromiso-con-la-salud-y-seguridad-laboral"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/39aa4464abaff48cd957caaef960acc9bf2507d3" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor supera los 110 millones de euros de beneficio y recupera los resultados previos a la venta de Enerfín</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-110-millones-de-euros-de-beneficio-y-recupera-los-resultados-previos-a-la-venta-de-enerfin</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-110-millones-de-euros-de-beneficio-y-recupera-los-resultados-previos-a-la-venta-de-enerfin</guid>
+      <pubDate>Thu, 26 Feb 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Grupo Elecnor ha obtenido 4.387 millones de euros de ingresos, un 15,1% más que en 2024, mejorando las previsiones del Plan Estratégico&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-110-millones-de-euros-de-beneficio-y-recupera-los-resultados-previos-a-la-venta-de-enerfin"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/993572ebb5ec289570e94335e47190f5c88d7ad2" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor amplía su presencia en Irlanda con dos nuevos proyectos estratégicos de condensadores síncronos</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-amplia-su-presencia-en-irlanda-con-dos-nuevos-proyectos-estrategicos-de-condensadores-sincronos</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-amplia-su-presencia-en-irlanda-con-dos-nuevos-proyectos-estrategicos-de-condensadores-sincronos</guid>
+      <pubDate>Tue, 24 Feb 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía alcanza ya las cuatro instalaciones de condensadores síncronos (SynCons) para Statkraft en la isla de Irlanda.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-amplia-su-presencia-en-irlanda-con-dos-nuevos-proyectos-estrategicos-de-condensadores-sincronos"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/9b9a300b960ce6cfd3b021eebdf46db7659bd18d" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor impulsa el almacenamiento energético en España con una alianza estratégica para proyectos BESS</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-impulsa-el-almacenamiento-energetico-en-espana-con-una-alianza-estrategica-para-proyectos-bess</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-impulsa-el-almacenamiento-energetico-en-espana-con-una-alianza-estrategica-para-proyectos-bess</guid>
+      <pubDate>Tue, 17 Feb 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Elecnor refuerza su liderazgo en el almacenamiento energético mediante una alianza estratégica con Gotion y Battman&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-impulsa-el-almacenamiento-energetico-en-espana-con-una-alianza-estrategica-para-proyectos-bess"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/ba23ca41070d046eabfd0fa5d13024d0169fdfdf" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor aterriza en el mantenimiento aeronáutico con la adquisición del 100% de JAS</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-aterriza-en-el-mantenimiento-aeronautico-con-la-adquisicion-del-100percent-de-jas</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-aterriza-en-el-mantenimiento-aeronautico-con-la-adquisicion-del-100percent-de-jas</guid>
+      <pubDate>Thu, 18 Dec 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Jet Aircraft Services (JAS) es un referente en reciclaje verde y gestión sostenible del ciclo de vida de aeronaves&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-aterriza-en-el-mantenimiento-aeronautico-con-la-adquisicion-del-100percent-de-jas"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/c1b741b264bf536df53c6e29ff5f02b636297eb9" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fundación Elecnor y Universidad de Deusto firman un acuerdo para formar a 400 estudiantes en la especialidad de sostenibilidad y ética empresarial</title>
+      <link>https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial</guid>
+      <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Aula de Sostenibilidad Fundación Elecnor – Deusto Business School es una iniciativa destinada a estudiantes de primer curso de ADE.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/8190e6d0837cb018719361d6ffdd95e2eca9f65c" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor supera los 80 millones de euros de beneficio a cierre del tercer trimestre, en línea con su nuevo Plan Estratégico</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-80-millones-de-euros-de-beneficio-a-cierre-del-tercer-trimestre-en-linea-con-su-nuevo-plan-estrategico</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-80-millones-de-euros-de-beneficio-a-cierre-del-tercer-trimestre-en-linea-con-su-nuevo-plan-estrategico</guid>
+      <pubDate>Mon, 03 Nov 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Registra un EBITDA de 185 millones de euros (+96,4%) y una cifra de negocios por encima de los 3.000 millones de euros (+18,1%)&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-supera-los-80-millones-de-euros-de-beneficio-a-cierre-del-tercer-trimestre-en-linea-con-su-nuevo-plan-estrategico"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/ba16ca3210a5a670b7ebb1f26a4255b97518ee83" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor firma un contrato para electrificar el mayor proyecto ferroviario de Europa: Rail Baltica</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-firma-un-contrato-para-electrificar-el-mayor-proyecto-ferroviario-de-europa-rail-baltica-2</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-firma-un-contrato-para-electrificar-el-mayor-proyecto-ferroviario-de-europa-rail-baltica-2</guid>
+      <pubDate>Tue, 16 Sep 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Elecnor y Cobra Instalaciones forman consorcio para electrificar el mayor proyecto ferroviario de Europa&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-firma-un-contrato-para-electrificar-el-mayor-proyecto-ferroviario-de-europa-rail-baltica-2"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/0c92643ec9061b9774dafc55f80b79c5e7c632ab" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor presenta su Plan Estratégico 2025–2027: crecimiento rentable, inversión sostenible y compromiso con las personas</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-presenta-su-plan-estrategico-20252027-crecimiento-rentable-inversion-sostenible-y-compromiso-con-las-personas</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-presenta-su-plan-estrategico-20252027-crecimiento-rentable-inversion-sostenible-y-compromiso-con-las-personas</guid>
+      <pubDate>Thu, 11 Sep 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La inversión que se aspira a comprometer en el periodo asciende a 400 millones de euros&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-presenta-su-plan-estrategico-20252027-crecimiento-rentable-inversion-sostenible-y-compromiso-con-las-personas"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/0eb4a3dffaf0fd455be66e393cac5de96e8e9ca5" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor duplicó su beneficio neto en el primer semestre de 2025</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-duplico-su-beneficio-neto-en-el-primer-semestre-de-2025</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-duplico-su-beneficio-neto-en-el-primer-semestre-de-2025</guid>
+      <pubDate>Mon, 28 Jul 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-duplico-su-beneficio-neto-en-el-primer-semestre-de-2025"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/d79dbaf1d0ec219db41ca638ecf149e291fb59f8" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor firma una Financiación Sindicada con límite de 350 millones de euros y vencimiento a 5 años para impulsar sus objetivos estratégicos</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-firma-una-financiacion-sindicada-con-limite-de-350-millones-de-euros-y-vencimiento-a-5-anos-para-impulsar-sus-objetivos-estrategicos</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-firma-una-financiacion-sindicada-con-limite-de-350-millones-de-euros-y-vencimiento-a-5-anos-para-impulsar-sus-objetivos-estrategicos</guid>
+      <pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-firma-una-financiacion-sindicada-con-limite-de-350-millones-de-euros-y-vencimiento-a-5-anos-para-impulsar-sus-objetivos-estrategicos"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/b93a0860effbb5f9ea529e7f7ed13ae69eee6213" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor registra un Programa de Pagarés multidivisa en el MARF de hasta 400 millones de euros</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-registra-un-programa-de-pagares-multidivisa-en-el-marf-de-hasta-400-millones-de-euros-5</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-registra-un-programa-de-pagares-multidivisa-en-el-marf-de-hasta-400-millones-de-euros-5</guid>
+      <pubDate>Fri, 27 Jun 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-registra-un-programa-de-pagares-multidivisa-en-el-marf-de-hasta-400-millones-de-euros-5"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/23aa7ef62b2ad47ce4ff6ad8d6d48020f99dc199" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor se sitúa a la vanguardia de las energías renovables en Irlanda con dos contratos estratégicos</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-se-situa-a-la-vanguardia-de-las-energias-renovables-en-irlanda-con-dos-contratos-estrategicos</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-se-situa-a-la-vanguardia-de-las-energias-renovables-en-irlanda-con-dos-contratos-estrategicos</guid>
+      <pubDate>Wed, 18 Jun 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-se-situa-a-la-vanguardia-de-las-energias-renovables-en-irlanda-con-dos-contratos-estrategicos"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/578678154a7c924db45454e2bae99e98a1ccbf0c" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los accionistas del Grupo Elecnor aprueban las cuentas anuales de 2024 y un dividendo de 805 millones de euros</title>
+      <link>https://www.grupoelecnor.com/noticias/los-accionistas-del-grupo-elecnor-aprueban-las-cuentas-anuales-de-2024-y-un-dividendo-de-805-millones-de-euros</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/los-accionistas-del-grupo-elecnor-aprueban-las-cuentas-anuales-de-2024-y-un-dividendo-de-805-millones-de-euros</guid>
+      <pubDate>Thu, 29 May 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/los-accionistas-del-grupo-elecnor-aprueban-las-cuentas-anuales-de-2024-y-un-dividendo-de-805-millones-de-euros"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/249aa651711a168ddd3e5ff37534ae337d0ca5ab" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor alcanza un beneficio neto de 25 millones de euros en el primer trimestre de 2025, un 55% más que el año anterior</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-25-millones-de-euros-en-el-primer-trimestre-de-2025-un-55percent-mas-que-el-ano-anterior</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-25-millones-de-euros-en-el-primer-trimestre-de-2025-un-55percent-mas-que-el-ano-anterior</guid>
+      <pubDate>Tue, 29 Apr 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-25-millones-de-euros-en-el-primer-trimestre-de-2025-un-55percent-mas-que-el-ano-anterior"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/1e58d763f1bf122cb2ca2f6602540b4a34abcc99" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prevenir un accidente, prioridad para Grupo Elecnor: invierte 46 millones en prevención</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes</guid>
+      <pubDate>Tue, 29 Apr 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/99fd8c969d4b9821d06ccdccde801c941bc48e10" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La especialización en iniciativas ESG, claves para el impacto financiero de las empresas</title>
+      <link>https://www.grupoelecnor.com/noticias/la-especializacion-en-iniciativas-esg-claves-para-el-impacto-financiero-de-las-empresas</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/la-especializacion-en-iniciativas-esg-claves-para-el-impacto-financiero-de-las-empresas</guid>
+      <pubDate>Fri, 14 Mar 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/la-especializacion-en-iniciativas-esg-claves-para-el-impacto-financiero-de-las-empresas"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/601ba1e778a683324ba4a028055aba892cf31b03" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Grupo Elecnor gana 705,2 millones de euros y propone un dividendo complementario de 265</title>
+      <link>https://www.grupoelecnor.com/noticias/el-grupo-elecnor-gana-7052-millones-de-euros-y-propone-un-dividendo-complementario-de-265</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/el-grupo-elecnor-gana-7052-millones-de-euros-y-propone-un-dividendo-complementario-de-265</guid>
+      <pubDate>Fri, 28 Feb 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/el-grupo-elecnor-gana-7052-millones-de-euros-y-propone-un-dividendo-complementario-de-265"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/5b85cb51b8be7ef59c8980fc42a5ec5893c04aa5" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor construirá el mayor parque solar de Nueva Zelanda</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-construira-el-mayor-parque-solar-de-nueva-zelanda</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-construira-el-mayor-parque-solar-de-nueva-zelanda</guid>
+      <pubDate>Thu, 30 Jan 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-construira-el-mayor-parque-solar-de-nueva-zelanda"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/c5eb0c578ce6d3738381817841bcab451a715126" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor alcanza un beneficio neto de 859,9 millones de euros a cierre del tercer trimestre de 2024</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-8599-millones-de-euros-a-cierre-del-tercer-trimestre-de-2024</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-8599-millones-de-euros-a-cierre-del-tercer-trimestre-de-2024</guid>
+      <pubDate>Mon, 09 Dec 2024 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-8599-millones-de-euros-a-cierre-del-tercer-trimestre-de-2024"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/ba23ca41070d046eabfd0fa5d13024d0169fdfdf" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor comunica el nombramiento de Alberto García de los Ángeles como CEO del Grupo Elecnor</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-comunica-el-nombramiento-de-alberto-garcia-de-los-angeles-como-ceo-del-grupo-elecnor</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-comunica-el-nombramiento-de-alberto-garcia-de-los-angeles-como-ceo-del-grupo-elecnor</guid>
+      <pubDate>Fri, 29 Nov 2024 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-comunica-el-nombramiento-de-alberto-garcia-de-los-angeles-como-ceo-del-grupo-elecnor"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/43867d0b6392b13c5fd731a8f70bc1b9f34fa59f" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor entra en el IBEX ESG gracias a sus contribuciones sociales y medioambientales</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-entra-en-el-ibex-esg-gracias-a-sus-contribuciones-sociales-y-medioambientales</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-entra-en-el-ibex-esg-gracias-a-sus-contribuciones-sociales-y-medioambientales</guid>
+      <pubDate>Wed, 18 Sep 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-entra-en-el-ibex-esg-gracias-a-sus-contribuciones-sociales-y-medioambientales"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/ecb3b573ef0e35da0b15bd867049a041af09cc90" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Elecnor alcanza un beneficio neto de 848,4 millones de euros en el primer semestre de 2024</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-8484-millones-de-euros-en-el-primer-semestre-de-2024</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-8484-millones-de-euros-en-el-primer-semestre-de-2024</guid>
+      <pubDate>Mon, 29 Jul 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-8484-millones-de-euros-en-el-primer-semestre-de-2024"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/c3afc84f17e22793deb4fbf343b7102758245573" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Elecnor inicia la construcción de un Parque Eólico de 320 MW en México</title>
+      <link>https://www.grupoelecnor.com/noticias/elecnor-inicia-la-construccion-de-un-parque-eolico-de-320-mw-en-mexico</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-inicia-la-construccion-de-un-parque-eolico-de-320-mw-en-mexico</guid>
+      <pubDate>Tue, 09 Jul 2024 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-inicia-la-construccion-de-un-parque-eolico-de-320-mw-en-mexico"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/c0b2455dd964eb143637873c7e174bf0028ae1cb" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
