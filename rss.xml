@@ -5,19 +5,30 @@
     <link>https://www.grupoelecnor.com/noticias</link>
     <description>Todas las noticias publicadas por Grupo Elecnor.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:31:52 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elecnor-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celeo se adjudica dos proyectos por 793 millones de euros para reforzar la transmisión eléctrica en Brasil</title>
+      <link>https://www.grupoelecnor.com/noticias/celeo-se-adjudica-dos-proyectos-por-793-millones-de-euros-para-reforzar-la-transmision-electrica-en-brasil</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/celeo-se-adjudica-dos-proyectos-por-793-millones-de-euros-para-reforzar-la-transmision-electrica-en-brasil</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Las nuevas infraestructuras reforzarán el suministro eléctrico y la resiliencia climática de la red brasileña, y se explotarán en régimen de concesión durante 30 años. Estas adjudicaciones contribuyen&amp;hellip;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/celeo-se-adjudica-dos-proyectos-por-793-millones-de-euros-para-reforzar-la-transmision-electrica-en-brasil"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/cee36c41c11e281a3791a268a1edad222af2b622" type="image/jpeg" />
+    </item>
     <item>
       <title>Elecnor convoca una Junta General Extraordinaria de Accionistas para aprobar el reparto de un dividendo con cargo a reservas de 251,6 millones de euros</title>
       <link>https://www.grupoelecnor.com/noticias/elecnor-convoca-una-junta-general-extraordinaria-de-accionistas-para-aprobar-el-reparto-de-un-dividendo-con-cargo-a-reservas-de-2516-millones-de-euros</link>
       <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/elecnor-convoca-una-junta-general-extraordinaria-de-accionistas-para-aprobar-el-reparto-de-un-dividendo-con-cargo-a-reservas-de-2516-millones-de-euros</guid>
       <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-convoca-una-junta-general-extraordinaria-de-accionistas-para-aprobar-el-reparto-de-un-dividendo-con-cargo-a-reservas-de-2516-millones-de-euros"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Grupo Elecnor eleva un 27,3% su beneficio neto hasta los 102,9 millones de euros en los nueve primeros meses del año&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/elecnor-convoca-una-junta-general-extraordinaria-de-accionistas-para-aprobar-el-reparto-de-un-dividendo-con-cargo-a-reservas-de-2516-millones-de-euros"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
       <author>Grupo Elecnor</author>
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
-      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/9ad69aa47a2421843ee36f75ec675216df2b8c5c" type="image/jpeg" />
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/f03c12b06485cf27d4a4c4fb38c1de6a58de5e7b" type="image/jpeg" />
     </item>
     <item>
       <title>Grupo Elecnor eleva un 27,3% su beneficio neto hasta los 102,9 millones de euros en los nueve primeros meses del año</title>
@@ -28,7 +39,7 @@
       <author>Grupo Elecnor</author>
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
-      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/8eefc576b80e8d3a1ab56bd01d120203721d8428" type="image/jpeg" />
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/f03c12b06485cf27d4a4c4fb38c1de6a58de5e7b" type="image/jpeg" />
     </item>
     <item>
       <title>Elecnor Sistemas y la Autoridad Portuaria de A Coruña organizan el próximo 1 de octubre un foro pionero sobre interoperabilidad, ciberseguridad, inteligencia artificial y gestión del dato</title>
@@ -39,7 +50,7 @@
       <author>Grupo Elecnor</author>
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
-      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/8eefc576b80e8d3a1ab56bd01d120203721d8428" type="image/jpeg" />
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/f03c12b06485cf27d4a4c4fb38c1de6a58de5e7b" type="image/jpeg" />
     </item>
     <item>
       <title>Grupo Elecnor mejora su rentabilidad y eleva su beneficio un 36% superando los 68 millones de euros en el primer semestre de 2026</title>
@@ -50,7 +61,7 @@
       <author>Grupo Elecnor</author>
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
-      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/8eefc576b80e8d3a1ab56bd01d120203721d8428" type="image/jpeg" />
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/f03c12b06485cf27d4a4c4fb38c1de6a58de5e7b" type="image/jpeg" />
     </item>
     <item>
       <title>Elecnor registra un Programa de Pagarés multidivisa en el MARF de hasta 400 millones de euros</title>
@@ -61,7 +72,7 @@
       <author>Grupo Elecnor</author>
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
-      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/8eefc576b80e8d3a1ab56bd01d120203721d8428" type="image/jpeg" />
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/09f2d848f9d6e09bdb052effdce4d255eaec80d4" type="image/jpeg" />
     </item>
     <item>
       <title>Los accionistas del Grupo Elecnor aprueban las cuentas anuales de 2025 y un dividendo total con cargo a los resultados de 2025 de 44,3 millones de euros</title>
@@ -167,7 +178,7 @@
       <link>https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial</link>
       <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial</guid>
       <pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Aula de Sostenibilidad Fundación Elecnor – Deusto Business School es una iniciativa destinada a estudiantes de primer curso de ADE.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/fundacion-elecnor-y-universidad-de-deusto-firman-un-acuerdo-para-formar-a-400-estudiantes-en-la-especialidad-de-sostenibilidad-y-etica-empresarial"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
       <author>Grupo Elecnor</author>
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
@@ -262,17 +273,6 @@
       <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/249aa651711a168ddd3e5ff37534ae337d0ca5ab" type="image/jpeg" />
     </item>
     <item>
-      <title>Prevenir un accidente, prioridad para Grupo Elecnor: invierte 46 millones en prevención</title>
-      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes</link>
-      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes</guid>
-      <pubDate>Tue, 29 Apr 2025 10:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Grupo Elecnor</author>
-      <category>Elecnor</category>
-      <category>Noticias corporativas</category>
-      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/99fd8c969d4b9821d06ccdccde801c941bc48e10" type="image/jpeg" />
-    </item>
-    <item>
       <title>Grupo Elecnor alcanza un beneficio neto de 25 millones de euros en el primer trimestre de 2025, un 55% más que el año anterior</title>
       <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-25-millones-de-euros-en-el-primer-trimestre-de-2025-un-55percent-mas-que-el-ano-anterior</link>
       <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-alcanza-un-beneficio-neto-de-25-millones-de-euros-en-el-primer-trimestre-de-2025-un-55percent-mas-que-el-ano-anterior</guid>
@@ -282,6 +282,17 @@
       <category>Elecnor</category>
       <category>Noticias corporativas</category>
       <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/1e58d763f1bf122cb2ca2f6602540b4a34abcc99" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prevenir un accidente, prioridad para Grupo Elecnor: invierte 46 millones en prevención</title>
+      <link>https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes</link>
+      <guid isPermaLink="true">https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes</guid>
+      <pubDate>Tue, 29 Apr 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.grupoelecnor.com/noticias/grupo-elecnor-invierte-46-millones-de-euros-en-prevencion-de-accidentes"&gt;Leer la noticia completa en Grupo Elecnor&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Grupo Elecnor</author>
+      <category>Elecnor</category>
+      <category>Noticias corporativas</category>
+      <enclosure url="https://www.grupoelecnor.com/storage/media/thumbs/99fd8c969d4b9821d06ccdccde801c941bc48e10" type="image/jpeg" />
     </item>
     <item>
       <title>La especialización en iniciativas ESG, claves para el impacto financiero de las empresas</title>
